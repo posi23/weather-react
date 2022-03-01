@@ -1,5 +1,8 @@
-**Weather Application**
+**WEATHER APPLICATION**
 
-Weather Application written using ReactJS for frontend and weather data from openweathermap.org API
+Weather Application written using ReactJS, CSS and Bootstrap 5.
+
+Weather information/data gotten from openweathermap.org API
+
 - Fully Responsive
 - Displays weather for any valid city in the available dataset of the API mentioned above.
