@@ -110,7 +110,7 @@ const Location = ({ weather, pending }) => {
                                                 </div>
                                           </div>
 
-                                          <div className="text-center mt-5">
+                                          <div className="text-center mt-0">
                                                 <div className="fs-5 d-flex justify-content-evenly">
                                                       <div className="text-start"><WiHumidity size="30" /> Humidity : {weather.main.humidity}%</div>
 
